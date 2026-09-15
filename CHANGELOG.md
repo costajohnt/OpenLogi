@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.8.5] - 2026-09-15
+
+### Fixed
+
+- *(linux)* serialise autostart reconciles and claim the marker atomically
+- *(linux)* preserve systemd unit and enablement ownership
+- *(gui)* resolve depot metadata named only by the manifest
+
 ## [0.8.4] - 2026-09-15
 
 ### Added
